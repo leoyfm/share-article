@@ -1,0 +1,5 @@
+cron:
+- description: main
+  url: /
+  schedule: every 30 minutes
+
